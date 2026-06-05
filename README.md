@@ -16,11 +16,9 @@ A **B2B sales call tracking and lead intelligence dashboard** built in Power BI 
 
 ## 🖼️ Dashboard Preview
 
-> 📸 *Add your dashboard screenshots here*
-
 | Overview | Call Performance |
 |---|---|
-| `![Overview](Overview.png)` | `![Calls](Calls.png)` |
+|![Overview](Overview.png)| ![Appointments](Appointments.png) |
 
 ---
 
@@ -28,7 +26,7 @@ A **B2B sales call tracking and lead intelligence dashboard** built in Power BI 
 
 > 📸 *Add your data model screenshot here*
 
-`![Data Model](Data_Model.png)`
+![Data Model](Data Model.png)
 
 ### Schema
 
