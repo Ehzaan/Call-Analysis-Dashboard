@@ -24,19 +24,9 @@ A **B2B sales call tracking and lead intelligence dashboard** built in Power BI 
 
 ## 📂 Data Model
 
-> 📸 *Add your data model screenshot here*
 
-![Data Model](Data Model.png)
+![Data Model](Data_Model.png)
 
-### Schema
-
-```
-┌──────────────┐         ┌─────────────┐
-│   Calendar   │────────▶│ Worksheet   │
-│  (Date Dim)  │         │    Data     │
-└──────────────┘         │  (Fact)     │
-                         └─────────────┘
-```
 
 | Table | Type | Key Columns |
 |---|---|---|
@@ -279,8 +269,8 @@ call-analysis-dashboard/
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com) · [Portfolio](https://yourportfolio.com) · [GitHub](https://github.com)
+**[Mohammed Ehsan]**  
+[LinkedIn](https://www.linkedin.com/in/mohammed-ehsan-a90875251/)· [GitHub](https://github.com/Ehzaan)
 
 ---
 
